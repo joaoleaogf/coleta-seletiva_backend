@@ -1,0 +1,19 @@
+{
+  "name": "coleta-seletivaee",
+  "version": "1.0.0",
+  "description": "sistema de gerenciamento de pontos de coleta seletiva",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "joaoleaogf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "latest",
+    "mongodb": "latest",
+    "mongoose": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "latest"
+  }
+}
