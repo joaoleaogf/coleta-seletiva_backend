@@ -11,11 +11,11 @@ const placeSchema = new mongoose.Schema({
         required:true
     },
     long: {
-        type: Number,
+        type: String,
         required :true
     },
     lat: {
-        type:Number,
+        type:String,
         required:true
     }
 })

@@ -9,9 +9,10 @@
   "author": "joaoleaogf",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "latest",
     "mongodb": "latest",
-    "mongoose": "latest"
+    "mongoose": "^6.0.7"
   },
   "devDependencies": {
     "nodemon": "latest"
